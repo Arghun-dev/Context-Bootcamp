@@ -1,0 +1,11 @@
+.main {
+  border: 1px solid black;
+  border-radius: 4px;
+  box-shadow: 2px 4px 6px #ccc;
+  margin-top: 10%;
+  width: 60%;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 60px 45px;
+  font-size: 25px;
+}
